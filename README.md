@@ -1,0 +1,32 @@
+## Chức năng
+
+- [Đăng nhập](https://earnow.online/auth/signin)
+- [Đăng ký](https://earnow.online/auth/signup): Có gửi mail xác nhận
+- [Quên mật khẩu](https://earnow.online/auth/forgot-password)
+- [Payments Proofs](https://earnow.online/pages/payments-proofs): Kiểu danh sách người dùng đã thanh toán???
+- [Publisher Rates](https://earnow.online/payout-rates): Danh sách giá nhà xuất bản???
+- Shortlinks List: Redirect sang [link này](https://ad-doge.com/shorteners.html) khi bấm vào
+- Profile: ![profile](/images/profile.png)
+- Sidebar: ![sidebar](./images/sidebar.png)
+- [Dashboard](https://earnow.online/member/dashboard)
+  - Số liệu: ![data](./images/data.png)
+  - Announcements: ![Announcements](./images/announcements.png)
+  - Thống kê: Được chọn ngày ![statics](./images/statics.png)
+  - Tháng thu nhập: ![earn](./images/earn.png)
+- All Links: ![all-links](/images/all-links.png)
+- Hidden Links: ![hidden-links](/images/hidden-links.png)
+- New Shorten Link: bấm "New Shorten Link trên sidebar ra thêm vài cái ô nhập ![new-shorten-link](/images/new-shorten-link.png)
+- Withdraw: Mấy cái nút không có action gì, mấy cái tiêu đề có trong bảng Withdraws có thể bấm được, dùng để sort![withdraw](/images/withdraw.png)
+- Quick Link: ![quick-link](/images/quick-link.png)
+- Mass Shrinker: ![mass-shrinker](/images/mass-shrinker.png)
+- Full Page Script: ![Full Page Script](/images/full-page-script.png)
+- Bookmarklet: Bấm vô nút Shorten ra được cái trang bên cạnh ![Bookmarklet](/images/bookmarklet.png)
+- Referrals: ![Referrals](/images/referrals.png)
+- Profile/Billing Address: ![Billing Address](/images/billing-address.png)
+- Profile/Link Setting: ![Link Setting](/images/link-setting.png)
+- Profile/Withdrawal Info:
+  - ![Withdrawal Info](/images/withdrawal-info.png)
+  - ![Withdrawal Account](/images/withdrawal-ccount.png)
+- Change Password: ![Change Password](/images/change-password.png)
+- Change Email: ![Change Email](/images/change-email.png)
+- Support: ![Support](/images/support.png)
